@@ -1,1 +1,0 @@
-Como la carpeta estaba vicia no se reconocia como un cambio y no se podia hacer commit, pero ahora que tiene el archivo de texto si se puede hacer commit.
