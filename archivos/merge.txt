@@ -1,1 +1,6 @@
+
 Santiago Lopez Ayala, 17 años, con esta materia aspiro alcanzar un buen nivel en POO para poder desarrollar algunos proyectos por mi cuenta.
+
+Por que ahora que la carpeta no esta vacia si se detecta el cambio y se puede hacer commit.
+
+Es importante tener cuidado con modificar dos archivos al mismo tiempo porque puede generar un conflicto entre los archivos.
